@@ -40,8 +40,8 @@
   <a href="https://github.com/fmedeiros95">
     <table style="border: none !important;" cellspacing="0" cellpadding="0">
       <tr style="border: none !important;">
-        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=fmedeiros95&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></td>
-        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fmedeiros95&layout=compact&langs_count=7&theme=monokai"/></td>
+        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=muxtardo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></td>
+        <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muxtardo&layout=compact&langs_count=7&theme=monokai"/></td>
       </tr>
     </table>
   </a>
