@@ -12,7 +12,7 @@
   <p><b>Algumas coisas que estou fazendo atualmente:</b></p>
   <ul style="list-style-type: none; margin: 0;">
     <li>🔭 Atualmente trabalhando com desenvolvimento de Browser Games NFT.</li>
-    <li>🌱 Atualmente estou aprendendo Ruby e React JS.</li>
+    <li>🌱 Atualmente estou aprendendo React JS.</li>
   </ul>
   
   <div style="display: inline_block">
@@ -37,7 +37,7 @@
 </div><br /><br />
 
 <div align="center">
-  <a href="https://github.com/fmedeiros95">
+  <a href="https://github.com/muxtardo">
     <table style="border: none !important;" cellspacing="0" cellpadding="0">
       <tr style="border: none !important;">
         <td style="border: none !important;"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=muxtardo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/></td>
