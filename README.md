@@ -38,8 +38,6 @@
    <img title="Bootstrap" alt="Medeiros-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
    <img title="jQuery" alt="Medeiros-jQuery" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
    <img title="React" alt="Medeiros-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- </div><br />
- <div style="display: inline-block;" align="center">
    <img title="Tailwind" alt="Medeiros-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 
    <img title="Docker" alt="Medeiros-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
