@@ -15,7 +15,7 @@
   <h2>Linguagens e ferramentas com as quais tenho experiência e estudo:</h2>
   <div style="display: inline-block;" align="center">
    <img title="MongoDB" alt="Medeiros-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
-   <img title="MySQL" alt="Medeiros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+   <img title="MySQL" alt="Medeiros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img title="PostgreSQL" alt="Medeiros-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
    <img title="Redis" alt="Medeiros-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
 
