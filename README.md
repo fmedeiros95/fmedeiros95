@@ -31,6 +31,7 @@ Os projetos aqui disponíveis demonstram minha abordagem prática e analítica n
  <img title="TypeScript" alt="Medeiros-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  <img title="JavaScript" alt="Medeiros-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img title="Solidity" alt="Medeiros-Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg">
+ <img title="Lua" alt="Medeiros-Lua" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg">
 </div>
 
 ### 🎨 Frontend
