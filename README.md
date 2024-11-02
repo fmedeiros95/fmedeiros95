@@ -50,9 +50,11 @@ Os projetos aqui disponíveis demonstram minha abordagem prática e analítica n
 
 ### 💾 Bancos de Dados
 <div>
- <img title="MongoDB" alt="Medeiros-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
  <img title="MySQL" alt="Medeiros-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+ <img title="MSSQL" alt="Medeiros-MSSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
  <img title="PostgreSQL" alt="Medeiros-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+ <img title="SQLite" alt="Medeiros-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg"> 
+ <img title="MongoDB" alt="Medeiros-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
  <img title="Redis" alt="Medeiros-Redis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain.svg">
  <img title="Prisma" alt="Medeiros-Prisma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/prisma/prisma-original.svg">
  <img title="TypeORM" alt="Medeiros-TypeORM" height="30" width="40" src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4">
@@ -63,6 +65,7 @@ Os projetos aqui disponíveis demonstram minha abordagem prática e analítica n
 <div>
  <img title="AWS" alt="Medeiros-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
  <img title="GCP" alt="Medeiros-GCP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
+ <img title="DigitalOcean" alt="Medeiros-DigitalOcean" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg">
  <img title="Vercel" alt="Medeiros-Vercel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vercel/vercel-original.svg">
  <img title="Cloudflare" alt="Medeiros-Cloudflare" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg">
 </div>
@@ -77,17 +80,20 @@ Os projetos aqui disponíveis demonstram minha abordagem prática e analítica n
  <img title="Nodemon" alt="Medeiros-Nodemon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-plain.svg">
  <img title="Swagger" alt="Medeiros-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg">
  <img title="Sentry" alt="Medeiros-Sentry" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sentry/sentry-original.svg">
+ <img title="New Relic" alt="Medeiros-New Relic" height="30" width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/newrelic.svg">
  <img title="Socket.IO" alt="Medeiros-Socket.IO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/socketio/socketio-original.svg">
 </div>
 
 ### ⚙️ Ferramentas e Utilitários
 <div>
+ <img title="Windows Server" alt="Medeiros-Windows Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
  <img title="Linux" alt="Medeiros-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
  <img title="SSH" alt="Medeiros-SSH" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg">
  <img title="Vim" alt="Medeiros-Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vim/vim-plain.svg">
  <img title="Nano" alt="Medeiros-Nano" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nano/nano-plain.svg">
  <img title="VSCode" alt="Medeiros-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img title="OhMyZsh" alt="Medeiros-OhMyZsh" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ohmyzsh/ohmyzsh-plain.svg">
+ <img title="Shell Script" alt="Medeiros-Shell Script" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 </div>
 
 ### 💻 Ferramentas de Desenvolvimento
