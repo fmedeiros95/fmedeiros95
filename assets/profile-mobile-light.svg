@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="312" viewBox="0 0 560 312" role="img" aria-labelledby="title desc">
+  <title id="title">Felipe Medeiros, Software Engineer</title>
+  <desc id="desc">Capa compacta em papel claro e verde com o nome Felipe Medeiros.</desc>
+  <rect width="560" height="312" rx="8" fill="#f0f2ec"/>
+  <path d="M20 20h28M20 20v28M540 264v28h-28" fill="none" stroke="#8a9c83"/>
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="36" y="57" font-family="Consolas,'Courier New',monospace" font-size="18" letter-spacing="2" fill="#4c6354">F / M</text>
+    <text x="35" y="142" font-size="78" font-weight="650" letter-spacing="-4" fill="#15281e">Felipe</text>
+    <text x="32" y="221" font-size="78" font-weight="650" letter-spacing="-4" fill="#15281e">Medeiros</text>
+    <text x="38" y="270" font-family="Consolas,'Courier New',monospace" font-size="17" letter-spacing="1.5" fill="#4c6354">SOFTWARE ENGINEER</text>
+  </g>
+  <g fill="none" stroke="#9aae95"><rect x="444" y="40" width="55" height="35" rx="3"/><path d="M471 75v16"/><rect x="444" y="91" width="55" height="35" rx="3"/><path d="M471 126v16"/><rect x="444" y="142" width="55" height="35" rx="3"/></g>
+  <g fill="#577b44"><circle cx="471" cy="57" r="3"/><circle cx="471" cy="108" r="3"/><circle cx="471" cy="159" r="3"/></g>
+</svg>
