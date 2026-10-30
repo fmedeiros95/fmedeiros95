@@ -7,29 +7,31 @@
 
 # Construo software de ponta a ponta
 
-Construo software há mais de 10 anos. Sou cofundador da
-[WizeFlows](https://wizeflows.com.br) e engenheiro de software na
-[Atmus Tecnologia](https://atmustecnologia.com.br).
+Construo software há mais de 10 anos, atuando da compreensão do problema à
+entrega de produtos digitais.
 
 Gosto de acompanhar o produto inteiro: entender o problema, desenhar a
 arquitetura, construir a interface e cuidar dos serviços que fazem tudo
-funcionar. Hoje, meu foco está em automação de processos e agentes de IA.
+funcionar. Minha experiência passa por produtos B2B, automação de processos,
+agentes de IA e sistemas que precisam evoluir com clareza.
 
-[LinkedIn](https://www.linkedin.com/in/fmedeiros95/) / [E-mail](mailto:medeiros.dev@gmail.com) / [Código na Atmus](https://github.com/atmus-tecnologia)
+[LinkedIn](https://www.linkedin.com/in/fmedeiros95/) / [E-mail](mailto:medeiros.dev@gmail.com) / [Projetos no GitHub](https://github.com/atmus-tecnologia)
 
-## Agora, na WizeFlows
+## Produto, sistemas e automação
 
-Estou construindo uma plataforma que conecta atendimento, CRM e automações
-em fluxos visuais. Agentes de IA entram nesses fluxos para interpretar
-mensagens, qualificar contatos e dar sequência ao trabalho.
+Ao longo da carreira, participei da construção de plataformas que conectam
+atendimento, CRM e automações em fluxos visuais. Também trabalhei com agentes
+de IA para interpretar mensagens, qualificar contatos e automatizar etapas
+operacionais.
 
 Atuo da concepção do produto à experiência do usuário. A engenharia combina
-NestJS e Angular, filas e eventos, busca vetorial e infraestrutura em Google
-Cloud com Terraform.
+NestJS e Angular, filas e eventos, busca vetorial e infraestrutura em cloud
+com Terraform.
 
-[Conheça a WizeFlows](https://wizeflows.com.br)
+Essa visão de ponta a ponta une decisões de produto, arquitetura, interface,
+integrações e operação.
 
-## Algumas peças desse trabalho
+## Algumas peças do meu trabalho
 
 **[Atmus UI](https://github.com/atmus-tecnologia/atmus-ui)**
 
